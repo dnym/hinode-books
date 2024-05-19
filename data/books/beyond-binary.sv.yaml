@@ -1,0 +1,30 @@
+- title: "Bortom binär: utforska programmeringens djup"
+  link: /sv/books/beyond-binary/
+  pages:
+    - title: Del 1
+      link: /sv/books/beyond-binary/part-1/
+      pages:
+        - title: "Kapitel 1: Att avslöja algoritmernas mysterier"
+          link: /sv/books/beyond-binary/part-1/chapter-1/
+        - title: "Kapitel 2: Konsten att använda datastrukturer: byggstenar för effektivitet"
+          link: /sv/books/beyond-binary/part-1/chapter-2/
+        - title: "Kapitel 3: Att bemästra objektorienterade designmönster"
+          link: /sv/books/beyond-binary/part-1/chapter-3/
+    - title: Del 2
+      link: /sv/books/beyond-binary/part-2/
+      pages:
+        - title: "Kapitel 4: Funktionella paradigmer: omfamna lambdakalkylens kraft"
+          link: /sv/books/beyond-binary/part-2/chapter-4/
+        - title: "Kapitel 5: Att övervinna komplexitet: principer för programvaruarkitektur"
+          link: /sv/books/beyond-binary/part-2/chapter-5/
+        - title: "Kapitel 6: Säkerhet genom design: en guide till robust kod"
+          link: /sv/books/beyond-binary/part-2/chapter-6/
+    - title: Del 3
+      link: /sv/books/beyond-binary/part-3/
+      pages:
+        - title: "Kapitel 7: Kontinuerlig integration och distribution: effektivisering av utvecklingsflödet"
+          link: /sv/books/beyond-binary/part-3/chapter-7/
+        - title: "Kapitel 8: DevOps-kultur: att överbrygga klyftan mellan utveckling och drift"
+          link: /sv/books/beyond-binary/part-3/chapter-8/
+        - title: "Kapitel 9: Framtiden för programmering: kommande trender och innovationer"
+          link: /sv/books/beyond-binary/part-3/chapter-9/

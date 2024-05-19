@@ -1,0 +1,30 @@
+- title: The Northern Winds
+  link: /en/books/the-northern-winds/
+  pages:
+    - title: Part 1
+      link: /en/books/the-northern-winds/part-1/
+      pages:
+        - title: "Chapter 1: Whispers Among the Pines"
+          link: /en/books/the-northern-winds/part-1/chapter-1/
+        - title: "Chapter 2: Tales from the Fjords"
+          link: /en/books/the-northern-winds/part-1/chapter-2/
+        - title: "Chapter 3: Mysteries of the Midnight Sun"
+          link: /en/books/the-northern-winds/part-1/chapter-3/
+    - title: Part 2
+      link: /en/books/the-northern-winds/part-2/
+      pages:
+        - title: "Chapter 4: Legends of the Frozen Realm"
+          link: /en/books/the-northern-winds/part-2/chapter-4/
+        - title: "Chapter 5: Journeys Across the Tundra"
+          link: /en/books/the-northern-winds/part-2/chapter-5/
+        - title: "Chapter 6: Shadows in the Boreal Forest"
+          link: /en/books/the-northern-winds/part-2/chapter-6/
+    - title: Part 3
+      link: /en/books/the-northern-winds/part-3/
+      pages:
+        - title: "Chapter 7: Songs of the Nordic Seas"
+          link: /en/books/the-northern-winds/part-3/chapter-7/
+        - title: "Chapter 8: Echoes of Ancient Runes"
+          link: /en/books/the-northern-winds/part-3/chapter-8/
+        - title: "Chapter 9: Windswept Dreams"
+          link: /en/books/the-northern-winds/part-3/chapter-9/

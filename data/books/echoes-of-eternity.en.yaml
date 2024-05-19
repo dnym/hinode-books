@@ -1,0 +1,30 @@
+- title: "Echoes of Eternity: A Journey Through Time"
+  link: /en/books/echoes-of-eternity/
+  pages:
+    - title: Part 1
+      link: /en/books/echoes-of-eternity/part-1/
+      pages:
+        - title: "Chapter 1: The Forgotten Prophecy"
+          link: /en/books/echoes-of-eternity/part-1/chapter-1/
+        - title: "Chapter 2: Portal to the Past"
+          link: /en/books/echoes-of-eternity/part-1/chapter-2/
+        - title: "Chapter 3: Whispers of Ancient Civilizations"
+          link: /en/books/echoes-of-eternity/part-1/chapter-3/
+    - title: Part 2
+      link: /en/books/echoes-of-eternity/part-2/
+      pages:
+        - title: "Chapter 4: Guardians of Time"
+          link: /en/books/echoes-of-eternity/part-2/chapter-4/
+        - title: "Chapter 5: Lost in the Sands of Time"
+          link: /en/books/echoes-of-eternity/part-2/chapter-5/
+        - title: "Chapter 6: The Timekeeper's Dilemma"
+          link: /en/books/echoes-of-eternity/part-2/chapter-6/
+    - title: Part 3
+      link: /en/books/echoes-of-eternity/part-3/
+      pages:
+        - title: "Chapter 7: Across the Dimensions"
+          link: /en/books/echoes-of-eternity/part-3/chapter-7/
+        - title: "Chapter 8: Shadows of the Future"
+          link: /en/books/echoes-of-eternity/part-3/chapter-8/
+        - title: "Chapter 9: Embracing the Infinite Now"
+          link: /en/books/echoes-of-eternity/part-3/chapter-9/

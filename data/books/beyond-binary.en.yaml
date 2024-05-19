@@ -1,0 +1,30 @@
+- title: "Beyond Binary: Exploring the Depths of Programming"
+  link: /en/books/beyond-binary/
+  pages:
+    - title: Part 1
+      link: /en/books/beyond-binary/part-1/
+      pages:
+        - title: "Chapter 1: Unraveling the Mysteries of Algorithms"
+          link: /en/books/beyond-binary/part-1/chapter-1/
+        - title: "Chapter 2: The Art of Data Structures: Building Blocks of Efficiency"
+          link: /en/books/beyond-binary/part-1/chapter-2/
+        - title: "Chapter 3: Mastering Object-Oriented Design Patterns"
+          link: /en/books/beyond-binary/part-1/chapter-3/
+    - title: Part 2
+      link: /en/books/beyond-binary/part-2/
+      pages:
+        - title: "Chapter 4: Functional Paradigms: Embracing the Power of Lambda Calculus"
+          link: /en/books/beyond-binary/part-2/chapter-4/
+        - title: "Chapter 5: Conquering Complexity: Software Architecture Principles"
+          link: /en/books/beyond-binary/part-2/chapter-5/
+        - title: "Chapter 6: Secure by Design: A Guide to Robust Code"
+          link: /en/books/beyond-binary/part-2/chapter-6/
+    - title: Part 3
+      link: /en/books/beyond-binary/part-3/
+      pages:
+        - title: "Chapter 7: Continuous Integration and Deployment: Streamlining Development Workflow"
+          link: /en/books/beyond-binary/part-3/chapter-7/
+        - title: "Chapter 8: DevOps Culture: Bridging the Gap Between Development and Operations"
+          link: /en/books/beyond-binary/part-3/chapter-8/
+        - title: "Chapter 9: The Future of Programming: Trends and Innovations Ahead"
+          link: /en/books/beyond-binary/part-3/chapter-9/
