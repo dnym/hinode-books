@@ -1,5 +1,129 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
 [[module.imports]]
-path = 'github.com/gethinode/hinode'
+    path = 'github.com/gethinode/hinode'
+
+[languages.en]
+    title = 'My New Hugo Site'
+    contentDir = 'content/en'
+    languageCode = 'en'
+    languageName = 'English'
+[languages.en.params.sections.blog]
+    reference = "More Posts"
+[languages.en.params.sections.projects]
+    reference = "More Projects"
+[languages.en.params.sections.books]
+    reference = "More Books"
+[languages.en.params.head]
+    tagline = "A Hugo Theme"
+[languages.en.params.social]
+    title = "Follow me"
+    caption = "I work on everything coding and tweet developer memes"
+
+[languages.sv]
+    title = 'Min nya Hugo-sajt'
+    contentDir = 'content/sv'
+    languageCode = 'sv'
+    languageName = 'Svenska'
+[languages.sv.params.sections.blog]
+    reference = "Fler inlägg"
+[languages.sv.params.sections.projects]
+    reference = "Fler projekt"
+[languages.sv.params.sections.books]
+    reference = "Fler böcker"
+[languages.sv.params.head]
+    tagline = "Ett Hugo-tema"
+[languages.sv.params.social]
+    title = "Följ mig"
+    caption = "Jag arbetar med allt som har med kodning att göra och twittrar utvecklarmemer"
+
+[params.navigation]
+    sidebar = true
+    toc = true
+    includeToc = true
+
+[params.home]
+    sections = ['blog', 'projects', 'books']
+
+[params.sections.books]
+    nested = false
+
+[[languages.en.menus.main]]
+    name = 'About'
+    pageRef = '/about/'
+    weight = 10
+[[languages.en.menus.main]]
+    name = 'Blog'
+    pageRef = '/blog/'
+    weight = 20
+[[languages.en.menus.main]]
+    name = 'Projects'
+    pageRef = '/projects/'
+    weight = 30
+[[languages.en.menus.main]]
+    name = 'Books'
+    pageRef = '/books/'
+    weight = 40
+[[languages.en.menus.main]]
+    name = 'Tags'
+    pageRef = '/tags/'
+    weight = 50
+
+[[languages.sv.menus.main]]
+    name = 'Om'
+    pageRef = '/about/'
+    weight = 10
+[[languages.sv.menus.main]]
+    name = 'Blogg'
+    pageRef = '/blog/'
+    weight = 20
+[[languages.sv.menus.main]]
+    name = 'Projekt'
+    pageRef = '/projects/'
+    weight = 30
+[[languages.sv.menus.main]]
+    name = 'Böcker'
+    pageRef = '/books/'
+    weight = 40
+[[languages.sv.menus.main]]
+    name = 'Taggar'
+    pageRef = '/tags/'
+    weight = 50
+
+[[languages.en.menus.social]]
+  name = "LinkedIn"
+  pre = "fab linkedin"
+  url = "https://linkedin.com/"
+  weight = 10
+
+[[languages.en.menus.social]]
+  name = "GitHub"
+  pre = "fab fa-github"
+  url = "https://github.com/"
+  weight = 20
+
+[[languages.en.menus.social]]
+  name = "Medium"
+  pre = "fab medium"
+  url = "https://medium.com/"
+  weight = 30
+
+[[languages.sv.menus.social]]
+  name = "LinkedIn"
+  pre = "fab linkedin"
+  url = "https://linkedin.com/"
+  weight = 10
+
+[[languages.sv.menus.social]]
+  name = "GitHub"
+  pre = "fab fa-github"
+  url = "https://github.com/"
+  weight = 20
+
+[[languages.sv.menus.social]]
+  name = "Medium"
+  pre = "fab medium"
+  url = "https://medium.com/"
+  weight = 30
