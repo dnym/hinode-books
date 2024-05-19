@@ -1,0 +1,18 @@
+---
+title: "Chapter 2: The Art of Data Structures: Building Blocks of Efficiency"
+description: Craft efficient systems using versatile data structure concepts.
+type: reverse-footer
+icon: fas question
+sidebarFilename: beyond-binary
+---
+Pellentesque luctus eu lacus bibendum mattis. Maecenas et elit eros. Duis eu magna dignissim, ullamcorper enim quis, faucibus lectus. Aenean aliquam quam et dignissim tristique. Vestibulum a nulla diam. Etiam vel sollicitudin tortor, nec tincidunt enim. Nunc sollicitudin sem leo, sed congue orci ultricies eget. Morbi suscipit sagittis metus ut consequat. Fusce ut diam est. Donec sit amet dolor ante. Mauris velit odio, ultricies pharetra fermentum in, viverra feugiat nulla. Morbi vehicula at tortor a faucibus.
+
+In eget lacus quis nunc vehicula vulputate. Pellentesque imperdiet vehicula sodales. Integer rhoncus placerat fringilla. Nulla est erat, lobortis sed dictum ac, lacinia sed odio. Donec accumsan a ex ut elementum. Sed aliquet ante vitae lacus luctus condimentum. Vestibulum sollicitudin augue ligula, eu feugiat quam rhoncus ut. Quisque luctus vel justo vel bibendum. Cras hendrerit nisi vel nulla feugiat finibus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla laoreet eget lectus vitae efficitur.
+
+Aenean sit amet lacinia eros, a malesuada nisi. In hac habitasse platea dictumst. Aenean nunc quam, fringilla non urna in, fermentum hendrerit velit. Etiam non ultrices nisl. Suspendisse potenti. Praesent porttitor tempus magna sed sodales. Duis nec velit tempus, porttitor erat eget, vehicula augue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur finibus ullamcorper sagittis. Ut in sapien enim. Pellentesque at elementum diam. Vestibulum consectetur massa arcu. Mauris ornare eu turpis nec dapibus. Nullam porttitor purus in quam hendrerit, nec consectetur neque porttitor. Vivamus varius erat id nisi eleifend feugiat. Donec malesuada eleifend tellus et eleifend.
+
+Curabitur eleifend, enim et malesuada efficitur, tortor mauris vehicula urna, hendrerit scelerisque justo erat ac lectus. Sed vel arcu augue. Nam urna risus, scelerisque at ante consectetur, iaculis consectetur nisl. Praesent bibendum arcu ac tortor pretium, in tempor mi posuere. Aenean eget sollicitudin justo. Morbi non arcu facilisis, ullamcorper dolor nec, tempus metus. In rutrum eu augue a efficitur. Aliquam ornare bibendum est, eu lobortis turpis commodo eu. Aenean cursus arcu nunc. Nullam pellentesque tellus a ornare tempus. Integer nec lacus eros.
+
+Morbi ut nisi sed nunc scelerisque condimentum non quis ex. Proin venenatis ipsum sit amet sem interdum accumsan. Maecenas ornare magna turpis, congue dignissim massa tincidunt ac. Pellentesque vel dui sem. Sed aliquam venenatis diam vitae egestas. Morbi eget condimentum dolor. Phasellus feugiat nibh non quam laoreet, efficitur blandit nisl pulvinar. Quisque quis turpis sed nisl suscipit convallis quis ac turpis.
+
+Praesent hendrerit velit quis sem fermentum consequat. In vel lacinia justo, id dictum ex. Nulla vel quam sed tortor dictum tristique. Nam porta sapien eu urna tempus congue eu sed est. Quisque et condimentum purus. Nunc quam nibh, tincidunt non elit at, luctus rutrum dolor. Fusce fermentum sapien lectus, vitae varius est sodales sit amet. Pellentesque id consectetur enim. Integer hendrerit dolor eu tempus pretium. Vestibulum sed mi ut dui tincidunt faucibus. Fusce gravida massa vel purus condimentum, at blandit nibh facilisis. Suspendisse sed ex vitae leo dictum ultricies. Ut eleifend urna in metus cursus luctus. Nam in ex commodo, ultrices.
