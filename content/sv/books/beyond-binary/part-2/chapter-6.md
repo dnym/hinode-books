@@ -1,0 +1,18 @@
+---
+title: "Kapitel 6: Säkerhet genom design: en guide till robust kod"
+description: Implementera säkerhet från grunden med tillförsikt.
+type: reverse-footer
+icon: fas question
+sidebarFilename: beyond-binary
+---
+Vestibulum tincidunt ut sapien sit amet scelerisque. Duis enim dolor, egestas in purus in, placerat fringilla magna. Mauris sem velit, eleifend eget aliquet eu, vehicula ac odio. Integer sagittis fringilla elit. Nam sed varius urna, in tempor lorem. Nullam quis eros nunc. Integer ut nibh quam. Fusce a orci laoreet, semper orci dictum, semper nisi. Duis ultricies rhoncus nulla vel accumsan. Praesent vel porttitor erat.
+
+Donec justo felis, lobortis suscipit magna et, fermentum consequat mauris. Quisque sagittis dapibus efficitur. Donec tincidunt orci id nulla sodales congue. Curabitur ac fringilla diam, lacinia tincidunt ex. Nulla dictum augue et erat egestas, ut ullamcorper arcu mattis. Suspendisse convallis sollicitudin pharetra. Nulla mi nibh, posuere vel lobortis vel, pellentesque in nunc. Ut sapien sapien, commodo ut congue convallis, vestibulum eget lacus. Proin id iaculis orci, ac tincidunt risus. Etiam sapien orci, vulputate eget venenatis eu, venenatis sit amet elit. Suspendisse sed lacus bibendum, cursus mi non, vestibulum nibh. Morbi sit amet tristique libero, eu commodo dolor. Quisque sodales egestas iaculis. Pellentesque vulputate sapien purus, sit amet vulputate sem bibendum et. Pellentesque interdum, eros ac imperdiet iaculis, ligula eros varius purus, id sagittis odio nisl a nibh. Cras tincidunt, nisi aliquet mattis tristique, quam nibh pellentesque eros, quis tincidunt neque dui et justo.
+
+Nam lorem arcu, malesuada eget quam eget, pretium commodo nisl. Sed pulvinar orci at elit ultrices gravida in ut purus. Integer nec tellus at ligula imperdiet ornare. In ut sagittis nisi. Pellentesque nulla elit, sagittis et risus et, commodo consectetur diam. Etiam at massa id dui rutrum dapibus. Cras et mi massa. Cras at nisi vitae justo consectetur placerat. Suspendisse dignissim neque sem, ut laoreet justo imperdiet et. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+Cras at tellus a lorem vehicula pretium vitae ut dui. Mauris accumsan nisl eget velit imperdiet ullamcorper. Praesent ultrices ipsum neque, at ullamcorper est maximus eget. Vestibulum auctor lectus ante, non viverra sem posuere eget. Nulla facilisi. Donec porta sodales elit, id pharetra dolor convallis eu. Quisque sit amet mauris non dui consequat aliquet sed quis tortor. Pellentesque ultricies sollicitudin mauris sit amet elementum. Integer accumsan venenatis libero, nec vehicula risus egestas nec.
+
+Nam semper molestie mattis. Nam imperdiet vehicula dui eu sagittis. Nam commodo ligula lectus. Phasellus in turpis non nunc tincidunt auctor. Mauris tempus, mauris ac ultricies iaculis, odio sem vulputate augue, vel elementum nulla ex quis ligula. Suspendisse tincidunt, dolor vitae gravida dignissim, quam erat placerat lacus, non vulputate felis eros eget erat. Nullam mollis mi at gravida ultrices. Donec nec orci vel orci luctus scelerisque a a neque. Nullam sit amet placerat ante, id pretium odio. In nunc eros, finibus convallis dignissim sed, sollicitudin sit amet mi. Aliquam auctor diam nunc, et egestas est venenatis vitae. Etiam posuere consectetur massa sit amet convallis.
+
+Mauris nec augue dignissim lacus dapibus euismod. Quisque hendrerit augue eu quam tempus, in tincidunt purus suscipit. Sed ac augue commodo, scelerisque libero vitae, vulputate nibh. Sed eget nisi lobortis, luctus enim sit amet, efficitur.
