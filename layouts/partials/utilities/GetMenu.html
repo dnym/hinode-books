@@ -1,0 +1,33 @@
+{{- $page := .page -}}
+{{- $version := .version -}}
+{{- $sidebarFilename := "" -}}
+
+{{- $menu := "" -}}
+{{- if $page.IsPage -}}
+    {{- $sidebarFilename = printf "%s-%s" $page.Section $version -}}
+    {{- $menu = index site.Data $sidebarFilename -}}
+    {{ if not $menu }}
+        {{- $sidebarFilename = $page.Section -}}
+        {{ $menu = index site.Data $sidebarFilename }}
+    {{ end }}
+{{- end -}}
+
+{{ if and (hasPrefix (printf "%T" $menu) "map[string]") $page.Params.sidebarFilename }}
+    {{- $subsectionName := $page.Params.sidebarFilename -}}
+    {{ $subsectionContents := index $menu $subsectionName }}
+    {{ if $subsectionContents }}
+        {{ $menu = $subsectionContents }}
+    {{ else if and $page.Language $page.Language.Lang }}
+       {{ $subsectionName = printf "%s.%s" $subsectionName $page.Language.Lang }}
+       {{ $subsectionContents = index $menu $subsectionName }}
+       {{ if $subsectionContents }}
+           {{ $menu = $subsectionContents }}
+       {{ else }}
+         {{ errorf "couldnt find key %s" $subsectionName }}
+       {{ end }}
+    {{ end }}
+{{ end }}
+
+{{ if $menu }}{{ with $sidebarFilename }}{{ $page.Scratch.Set "sidebarFilename" (path.Join "data" .) }}{{ end }}{{ end -}}
+
+{{- return $menu -}}
