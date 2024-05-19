@@ -1,0 +1,157 @@
+# Single pages
+- id: postedOnDate
+  translation: "Publicerat {{ . }}"
+- id: lastModified
+  translation: "Senast ändrat {{ . }}"
+- id: read
+  translation: "lästid"
+- id: minutesShort
+  translation: "min"
+- id: words
+  translation: "ord"
+- id: photoFull
+  translation: "Foto av %s via %s"
+- id: photoShort
+  translation: "Foto av {{ . }}"
+- id: photoOn
+  translation: "via"
+- id: draft
+  translation: "Utkast"
+
+# List pages
+- id: article
+  translation: "Artikel"
+- id: articles
+  translation: "Artiklar"
+- id: more
+  translation: "Mer {{ . }}"
+- id: emptyList
+  translation: "Inga artiklar funna"
+- id: emptyTags
+  translation: "Inga taggar funna"
+- id: readMore
+  translation: "Läs mer"
+
+# Languages
+- id: lang_de
+  translation: "Tyska"
+- id: lang_en
+  translation: "Engelska"
+- id: lang_nl
+  translation: "Nederländska"
+- id: lang_fr
+  translation: "Franska"
+
+# Sharing
+- id: shareLink
+  translation: "Dela via {{ . }}"
+- id: shareSystem
+  translation: "system"
+- id: copyToClipboard
+  translation: "kopiera till urklipp"
+- id: copiedToClipboard
+  translation: "kopierad till urklipp"
+- id: link
+  translation: "Länk"
+- id: code
+  translation: "Kod"
+- id: download
+  translation: "Ladda ner artikel"
+
+# Pagination
+- id: paginationNav
+  translation: "Sidnavigering"
+- id: paginationPrevious
+  translation: "Föregående sida"
+- id: paginationNext
+  translation: "Nästa sida"
+- id: paginationFirst
+  translation: "Första sidan"
+- id: paginationLast
+  translation: "Sista sidan"
+
+# Navigation
+- id: colorMode
+  translation: "Växla tema"
+- id: colorLight
+  translation: "Ljust"
+- id: colorDark
+  translation: "Mörkt"
+- id: colorAuto
+  translation: "Auto"
+- id: toggleMainNav
+  translation: "Växla huvudnavigering"
+- id: home
+  translation: "Hem"
+- id: languageSwitcherLabel
+  translation: "Språk"
+- id: close
+  translation: "Stäng"
+
+# Table of contents
+- id: toc
+  translation: "På denna sida"
+- id: seeAlso
+  translation: "Se även"
+- id: sectionMenu
+  translation: "Välj ett ämne"
+
+# Sidebar
+- id: toggleSidebar
+  translation: "Växla sidofältsnavigering"
+
+# Feature
+- id: addedFeature
+  translation: "Ny sedan {{ . }}"
+- id: deprecatedFeature
+  translation: "Utfasad sedan {{ . }}"
+
+# Versioning
+- id: latest
+  translation: "senaste"
+- id: allVersions
+  translation: "Alla versioner"
+- id: newerVersionAlert
+  translation: "Det finns en nyare version av {{ . }}!"
+
+# 404 page
+- id: pageNotFound
+  translation: "Sidan du letar efter finns inte eller så har ett annat fel uppstått. Försök att gå tillbaka till vår {{ . }}."
+- id: pageNotFoundTitle
+  translation: "Sidan hittas inte"
+- id: pageNotFoundHome
+  translation: "hemsida"
+
+# Footer
+- id: copyright
+  translation: "Copyright"
+- id: rights
+  translation: "Alla rättigheter förbehålles"
+- id: poweredBy
+  translation: "Drivs med {{ . }}."
+
+# Comments
+- id: show
+  translation: "Visa"
+- id: comments
+  translation: "Kommentarer" 
+
+# Arguments
+- id: name
+  translation: "Namn"
+- id: type
+  translation: "Typ"
+- id: required 
+  translation: "Krävs"
+- id: default
+  translation: "Standard"
+- id: comment
+  translation: "Kommentar"
+- id: supportedValues
+  translation: "Värden som stöds"
+
+# Search
+- id: ui_search
+  translation: "Sök denna webbplats"
+- id: ui_no_results
+  translation: "Inga resultat för"
