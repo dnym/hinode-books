@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://dnym.github.io/hinode-books/'
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
 timeout = "10m"
