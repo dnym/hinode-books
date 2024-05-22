@@ -1,6 +1,7 @@
 ---
 title: "Chapter 3: Whispers of Ancient Civilizations"
 description: Tharin deciphers ancient runes; secrets reveal civilization's demise.
+date: 2023-02-21T10:55:49+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: echoes-of-eternity

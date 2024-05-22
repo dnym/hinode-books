@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 2: Berättelser från fjordarna"
 description: Astrid upptäcker ett dolt hot som lurar i fjordarna.
+date: 2023-01-19T00:03:24+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: the-northern-winds

@@ -1,6 +1,7 @@
 ---
 title: "Chapter 4: Behind the Lens: A Glimpse into Cinematic Photography"
 description: Uncover the techniques and secrets behind capturing breathtaking visuals through the lens of cinema.
+date: 2023-06-08T09:23:05+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance

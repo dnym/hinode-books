@@ -1,6 +1,7 @@
 ---
 title: "Chapter 5: Conquering Complexity: Software Architecture Principles"
 description: Navigate complex systems with robust architectural design strategies.
+date: 2023-06-02T20:55:43+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: beyond-binary

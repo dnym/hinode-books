@@ -1,6 +1,7 @@
 ---
 title: The Northern Winds
 description: A captivating journey through the rugged landscapes of Scandinavia, weaving timeless tales of bravery, love, and sacrifice against the backdrop of the untamed North.
+date: 2022-11-10T09:09:31+01:00
 nested: true
 icon: fas water
 sidebarFilename: the-northern-winds

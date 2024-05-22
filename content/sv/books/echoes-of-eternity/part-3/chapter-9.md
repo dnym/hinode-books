@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 9: Omfamna det oändliga nuet"
 description: Seraphina hittar balans; hjältar förenas, formar oändligt öde.
+date: 2024-05-04T12:37:10+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: echoes-of-eternity

@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 2: Konsten att använda datastrukturer: byggstenar för effektivitet"
 description: Skapa effektiva system med mångsidiga datastrukturkoncept.
+date: 2023-01-02T20:11:00+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: beyond-binary

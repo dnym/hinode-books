@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 6: Tidsväktarens dilemma"
 description: Rowan stjäl klocka; tidtagarens dilemma ändrar ödets kurs.
+date: 2023-08-20T02:33:32+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: echoes-of-eternity

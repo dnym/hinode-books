@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 3: Att bemästra objektorienterade designmönster"
 description: Lås upp hemligheterna bakom återanvändbar och skalbar kod.
+date: 2023-03-16T04:53:51+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: beyond-binary

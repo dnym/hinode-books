@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 9: Framtiden för programmering: kommande trender och innovationer"
 description: Håll dig före kurvan med framväxande teknologier.
+date: 2024-02-10T03:42:18+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: beyond-binary

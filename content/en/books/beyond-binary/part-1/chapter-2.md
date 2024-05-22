@@ -1,6 +1,7 @@
 ---
 title: "Chapter 2: The Art of Data Structures: Building Blocks of Efficiency"
 description: Craft efficient systems using versatile data structure concepts.
+date: 2023-01-02T20:11:00+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: beyond-binary

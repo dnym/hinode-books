@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 7: Kontinuerlig integration och distribution: effektivisering av utvecklingsflödet"
 description: Optimera utvecklingscykler med sömlös integration och distribution.
+date: 2023-10-30T10:16:33+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: beyond-binary

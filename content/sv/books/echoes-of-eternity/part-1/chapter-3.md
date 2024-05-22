@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 3: Viskningar från forntida civilisationer"
 description: Tharin dechiffrerar gamla runor; hemligheter avslöjar civilisationens undergång.
+date: 2023-02-21T10:55:49+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: echoes-of-eternity

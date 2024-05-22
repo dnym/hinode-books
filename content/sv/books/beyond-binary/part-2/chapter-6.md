@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 6: Säkerhet genom design: en guide till robust kod"
 description: Implementera säkerhet från grunden med tillförsikt.
+date: 2023-07-22T09:33:32+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: beyond-binary

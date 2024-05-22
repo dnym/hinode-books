@@ -1,6 +1,7 @@
 ---
 title: "Chapter 6: Secure by Design: A Guide to Robust Code"
 description: Implement security from the ground up with confidence.
+date: 2023-07-22T09:33:32+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: beyond-binary

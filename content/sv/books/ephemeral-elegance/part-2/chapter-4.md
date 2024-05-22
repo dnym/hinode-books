@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 4: Bakom linsen: en inblick i filmfotografering"
 description: Upptäck teknikerna och hemligheterna bakom att fånga hisnande bilder genom filmlinsen.
+date: 2023-06-08T09:23:05+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance

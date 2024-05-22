@@ -1,6 +1,7 @@
 ---
 title: "Chapter 1: The Forgotten Prophecy"
 description: Aric uncovers ancient prophecy; destiny begins to unfold.
+date: 2023-01-22T17:46:59+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: echoes-of-eternity

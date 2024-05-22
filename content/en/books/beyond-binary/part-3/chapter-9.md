@@ -1,6 +1,7 @@
 ---
 title: "Chapter 9: The Future of Programming: Trends and Innovations Ahead"
 description: Stay ahead of the curve with emerging technologies.
+date: 2024-02-10T03:42:18+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: beyond-binary

@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 9: Arvet lever vidare: en hyllning till fanart och tributer"
 description: Fira filmens varaktiga inverkan genom fankonst och hyllningar, och hedra älskade klassiker.
+date: 2024-05-01T10:30:53+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance

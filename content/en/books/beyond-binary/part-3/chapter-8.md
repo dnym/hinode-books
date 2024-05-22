@@ -1,6 +1,7 @@
 ---
 title: "Chapter 8: DevOps Culture: Bridging the Gap Between Development and Operations"
 description: Foster collaboration and efficiency through DevOps principles.
+date: 2024-01-06T20:30:30+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: beyond-binary

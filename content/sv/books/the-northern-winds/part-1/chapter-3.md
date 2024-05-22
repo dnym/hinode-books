@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 3: Midnattssolens mysterier"
 description: Ragnar konfronterar en mäktig trollkarl under midnattssolen.
+date: 2023-01-20T17:51:33+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: the-northern-winds

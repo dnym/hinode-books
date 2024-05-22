@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 6: Avslöjade världar: utforska specialeffekter och CGI-underverk"
 description: Res in i specialeffekternas och CGI:ns rike, där fantasin inte vet några gränser.
+date: 2023-08-07T19:46:41+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance

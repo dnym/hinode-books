@@ -1,6 +1,7 @@
 ---
 title: "Chapter 4: Functional Paradigms: Embracing the Power of Lambda Calculus"
 description: Explore the elegance and power of functional programming.
+date: 2023-04-07T15:09:18+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: beyond-binary

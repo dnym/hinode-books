@@ -1,6 +1,7 @@
 ---
 title: "Chapter 4: Guardians of Time"
 description: Lyra's arrow strikes true; guardians defend temporal sanctum.
+date: 2023-06-12T08:14:06+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: echoes-of-eternity

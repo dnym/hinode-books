@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 5: Förlorad i tidens sand"
 description: Cedrics magi vacklar; hjältar navigerar i ett förrädiskt tidslandskap.
+date: 2023-06-26T22:12:16+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: echoes-of-eternity

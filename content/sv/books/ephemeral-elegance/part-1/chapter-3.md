@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 3: Penseldrag av briljans: att fånga spektakulära miljöer"
 description: Upptäck konsten att skapa uppslukande miljöer som transporterar publiken till extraordinära världar.
+date: 2023-04-13T04:03:49+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance

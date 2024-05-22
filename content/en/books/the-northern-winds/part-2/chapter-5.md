@@ -1,6 +1,7 @@
 ---
 title: "Chapter 5: Journeys Across the Tundra"
 description: Sigurd guides the group through treacherous tundra landscapes.
+date: 2023-07-01T02:48:04+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: the-northern-winds

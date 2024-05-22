@@ -1,6 +1,7 @@
 ---
 title: "Chapter 2: Tales from the Fjords"
 description: Astrid uncovers a hidden threat lurking in the fjords.
+date: 2023-01-19T00:03:24+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: the-northern-winds

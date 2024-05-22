@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 5: Resor över tundran"
 description: Sigurd guidar gruppen genom förrädiska tundralandskap.
+date: 2023-07-01T02:48:04+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: the-northern-winds

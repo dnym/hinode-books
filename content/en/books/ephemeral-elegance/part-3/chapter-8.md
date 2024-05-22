@@ -1,6 +1,7 @@
 ---
 title: "Chapter 8: Forging Legends: Creating Memorable Movie Posters"
 description: Explore the art of poster design, crafting iconic images that capture the essence of films.
+date: 2024-01-30T23:14:50+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance

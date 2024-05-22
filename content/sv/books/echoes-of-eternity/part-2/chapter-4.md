@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 4: Tidens väktare"
 description: Lyras pil träffar rätt; väktare försvarar den timliga helgedomen.
+date: 2023-06-12T08:14:06+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: echoes-of-eternity

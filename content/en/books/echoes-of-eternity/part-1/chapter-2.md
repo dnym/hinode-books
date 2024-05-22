@@ -1,6 +1,7 @@
 ---
 title: "Chapter 2: Portal to the Past"
 description: Elara unlocks portal; heroes journey into history's depths.
+date: 2023-02-09T16:47:44+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: echoes-of-eternity

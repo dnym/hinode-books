@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 1: Ett mästerverk föds: från koncept till skapelse"
 description: Lär dig hur filmiska idéer utvecklas från initiala koncept till fullt realiserade mästerverk.
+date: 2023-02-07T09:46:14+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance

@@ -1,6 +1,7 @@
 ---
 title: "Chapter 7: Across the Dimensions"
 description: Aurora heals dimensional breach; realities merge, chaos looms.
+date: 2024-04-23T00:50:04+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: echoes-of-eternity

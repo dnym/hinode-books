@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 8: Framtidens skuggor"
 description: Kael konfronterar det framtida jaget; mörkret hotar att förtära.
+date: 2024-04-29T00:14:56+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: echoes-of-eternity

@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 6: Skuggor i den boreala skogen"
 description: Erik möter sina mörkaste rädslor i den hemsökta skogen.
+date: 2023-12-01T18:20:11+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: the-northern-winds

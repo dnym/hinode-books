@@ -1,6 +1,7 @@
 ---
 title: "Ephemeral Elegance: The Visual Odyssey of Cinematic Wonders"
 description: A captivating exploration of the artistry behind iconic films, offering readers a stunning glimpse into the creative process that brings movie magic to life on the screen.
+date: 2022-10-20T18:07:59+02:00
 nested: true
 icon: fas dice-d20
 sidebarFilename: ephemeral-elegance

@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 2: Visuell alkemi: att skapa ikoniska karaktärer"
 description: Utforska processen för karaktärsdesign och utveckling, från skisser till ikoniska personligheter.
+date: 2023-03-20T14:44:19+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance

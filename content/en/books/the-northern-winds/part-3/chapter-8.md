@@ -1,6 +1,7 @@
 ---
 title: "Chapter 8: Echoes of Ancient Runes"
 description: Ragnar deciphers cryptic runes to reveal hidden truths.
+date: 2024-03-01T09:20:13+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: the-northern-winds

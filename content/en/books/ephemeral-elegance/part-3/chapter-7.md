@@ -1,6 +1,7 @@
 ---
 title: "Chapter 7: From Script to Screen: Evolution of Storyboard Artistry"
 description: Trace the evolution of storyboard artistry, from script interpretation to visual storytelling mastery.
+date: 2024-01-17T05:28:40+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance

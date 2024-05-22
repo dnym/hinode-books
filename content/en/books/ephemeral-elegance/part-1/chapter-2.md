@@ -1,6 +1,7 @@
 ---
 title: "Chapter 2: Visual Alchemy: Crafting Iconic Characters"
 description: Explore the process of character design and development, from sketches to iconic personas.
+date: 2023-03-20T14:44:19+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance

@@ -1,6 +1,7 @@
 ---
 title: "Chapter 6: Shadows in the Boreal Forest"
 description: Erik faces his darkest fears in the haunted forest.
+date: 2023-12-01T18:20:11+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: the-northern-winds

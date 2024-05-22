@@ -1,6 +1,7 @@
 ---
 title: "Bortom binär: utforska programmeringens djup"
 description: En omfattande guide som fördjupar sig i grundläggande koncept, avancerade tekniker och framväxande trender inom mjukvaruutveckling, som erbjuder praktiska insikter och praktiska övningar för att ge läsarna möjlighet att bemästra konsten att programmera.
+date: 2022-10-23T12:59:33+02:00
 nested: true
 sidebarFilename: beyond-binary
 icon: fas keyboard

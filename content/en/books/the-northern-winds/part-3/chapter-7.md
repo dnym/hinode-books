@@ -1,6 +1,7 @@
 ---
 title: "Chapter 7: Songs of the Nordic Seas"
 description: Astrid braves the raging seas to seek allies.
+date: 2024-01-08T04:29:39+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: the-northern-winds

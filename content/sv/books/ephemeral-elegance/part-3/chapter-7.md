@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 7: Från manus till skärm: storyboardkonstens utveckling"
 description: Spåra utvecklingen av storyboardkonstnärskap, från manustolkning till visuellt berättande.
+date: 2024-01-17T05:28:40+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance

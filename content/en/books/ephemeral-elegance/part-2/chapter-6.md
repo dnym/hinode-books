@@ -1,6 +1,7 @@
 ---
 title: "Chapter 6: Worlds Unveiled: Exploring Special Effects and CGI Marvels"
 description: Journey into the realm of special effects and CGI, where imagination knows no bounds.
+date: 2023-08-07T19:46:41+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance

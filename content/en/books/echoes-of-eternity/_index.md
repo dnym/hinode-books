@@ -1,6 +1,7 @@
 ---
 title: "Echoes of Eternity: A Journey Through Time"
 description: A captivating adventure where unlikely heroes must unravel ancient prophecies and confront malevolent forces across the corridors of time to save the future, discovering that true power lies in embracing the present moment.
+date: 2022-10-17T07:07:09+02:00
 layout: fiction-list
 nested: true
 sidebarFilename: echoes-of-eternity

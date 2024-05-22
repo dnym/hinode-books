@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 8: Att smida legender: att skapa minnesvärda filmaffischer"
 description: Utforska konsten att designa affisch, skapa ikoniska bilder som fångar essensen av filmer.
+date: 2024-01-30T23:14:50+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance

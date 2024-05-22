@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 5: Designa drömmar: konsten att skapa kostym och makeup"
 description: Fördjupa dig i den intrikata världen av kostym- och sminkdesign, forma karaktärernas identiteter.
+date: 2023-08-01T16:41:37+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance

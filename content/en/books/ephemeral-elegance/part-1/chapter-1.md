@@ -1,6 +1,7 @@
 ---
 title: "Chapter 1: The Birth of a Masterpiece: From Concept to Creation"
 description: Learn how cinematic ideas evolve from initial concepts to fully realized masterpieces.
+date: 2023-02-07T09:46:14+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance

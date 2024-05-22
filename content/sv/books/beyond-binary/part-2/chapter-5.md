@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 5: Att övervinna komplexitet: principer för programvaruarkitektur"
 description: Navigera i komplexa system med robusta arkitektoniska designstrategier.
+date: 2023-06-02T20:55:43+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: beyond-binary

@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 2: En portal till det förflutna"
 description: Elara låser upp portalen; hjältar reser in i historiens djup.
+date: 2023-02-09T16:47:44+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: echoes-of-eternity

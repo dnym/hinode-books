@@ -1,6 +1,7 @@
 ---
 title: "Chapter 3: Mastering Object-Oriented Design Patterns"
 description: Unlock the secrets behind reusable and scalable code.
+date: 2023-03-16T04:53:51+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: beyond-binary

@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 4: Legender från det frusna riket"
 description: Freya ger sig ut på ett uppdrag för att låsa upp gamla legender.
+date: 2023-06-24T20:29:41+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: the-northern-winds

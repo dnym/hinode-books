@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 4: Funktionella paradigmer: omfamna lambdakalkylens kraft"
 description: Utforska elegansen och kraften i funktionell programmering.
+date: 2023-04-07T15:09:18+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: beyond-binary

@@ -1,6 +1,7 @@
 ---
 title: "Chapter 9: Embracing the Infinite Now"
 description: Seraphina finds balance; heroes unite, shaping infinite destiny.
+date: 2024-05-04T12:37:10+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: echoes-of-eternity

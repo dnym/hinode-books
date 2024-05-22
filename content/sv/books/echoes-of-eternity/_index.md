@@ -1,6 +1,7 @@
 ---
 title: "Evighetens ekon: en resa genom tiden"
 description: Ett fängslande äventyr där osannolika hjältar måste reda ut uråldriga profetior och konfrontera illvilliga krafter över tidens korridorer för att rädda framtiden och upptäcka att verklig kraft ligger i att omfamna nuet.
+date: 2022-10-17T07:07:09+02:00
 nested: true
 sidebarFilename: echoes-of-eternity
 icon: fas gears

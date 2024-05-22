@@ -1,6 +1,7 @@
 ---
 title: "Chapter 3: Mysteries of the Midnight Sun"
 description: Ragnar confronts a powerful sorcerer under the midnight sun.
+date: 2023-01-20T17:51:33+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: the-northern-winds

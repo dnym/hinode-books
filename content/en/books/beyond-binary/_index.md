@@ -1,6 +1,7 @@
 ---
 title: "Beyond Binary: Exploring the Depths of Programming"
 description: A comprehensive guide that delves into fundamental concepts, advanced techniques, and emerging trends in software development, offering practical insights and hands-on exercises to empower readers in mastering the art of programming.
+date: 2022-10-23T12:59:33+02:00
 nested: true
 sidebarFilename: beyond-binary
 icon: fas keyboard

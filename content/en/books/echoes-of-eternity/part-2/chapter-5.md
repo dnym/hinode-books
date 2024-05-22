@@ -1,6 +1,7 @@
 ---
 title: "Chapter 5: Lost in the Sands of Time"
 description: Cedric's magic falters; heroes navigate treacherous time-scape.
+date: 2023-06-26T22:12:16+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: echoes-of-eternity

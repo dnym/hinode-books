@@ -1,6 +1,7 @@
 ---
 title: "Chapter 7: Continuous Integration and Deployment: Streamlining Development Workflow"
 description: Optimize development cycles with seamless integration and deployment.
+date: 2023-10-30T10:16:33+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: beyond-binary

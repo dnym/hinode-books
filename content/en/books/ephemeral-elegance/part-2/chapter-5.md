@@ -1,6 +1,7 @@
 ---
 title: "Chapter 5: Designing Dreams: The Art of Costume and Makeup"
 description: Delve into the intricate world of costume and makeup design, shaping characters' identities.
+date: 2023-08-01T16:41:37+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance

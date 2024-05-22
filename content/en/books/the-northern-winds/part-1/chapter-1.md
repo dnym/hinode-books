@@ -1,6 +1,7 @@
 ---
 title: "Chapter 1: Whispers Among the Pines"
 description: Erik discovers a long-lost artifact in the forest.
+date: 2023-01-12T23:37:06+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: the-northern-winds

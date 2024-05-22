@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 8: Ekon av uråldriga runor"
 description: Ragnar dechiffrerar kryptiska runor för att avslöja dolda sanningar.
+date: 2024-03-01T09:20:13+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: the-northern-winds

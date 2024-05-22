@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 1: Den bortglömda profetian"
 description: Aric upptäcker gamla profetior; ödet börjar utveckla sig.
+date: 2023-01-22T17:46:59+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: echoes-of-eternity

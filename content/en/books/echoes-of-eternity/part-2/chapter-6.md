@@ -1,6 +1,7 @@
 ---
 title: "Chapter 6: The Timekeeper's Dilemma"
 description: Rowan steals timepiece; timekeeper's dilemma alters fate's course.
+date: 2023-08-20T02:33:32+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: echoes-of-eternity

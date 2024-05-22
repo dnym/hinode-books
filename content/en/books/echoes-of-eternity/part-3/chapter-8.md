@@ -1,6 +1,7 @@
 ---
 title: "Chapter 8: Shadows of the Future"
 description: Kael confronts future self; darkness threatens to consume.
+date: 2024-04-29T00:14:56+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: echoes-of-eternity

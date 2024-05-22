@@ -1,6 +1,7 @@
 ---
 title: "Chapter 3: Brushstrokes of Brilliance: Capturing Spectacular Settings"
 description: Discover the art of creating immersive environments that transport audiences to extraordinary worlds.
+date: 2023-04-13T04:03:49+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance

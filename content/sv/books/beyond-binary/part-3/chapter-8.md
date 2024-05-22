@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 8: DevOps-kultur: att överbrygga klyftan mellan utveckling och drift"
 description: Främja samarbete och effektivitet genom DevOps-principer.
+date: 2024-01-06T20:30:30+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: beyond-binary

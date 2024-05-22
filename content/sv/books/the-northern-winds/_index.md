@@ -1,6 +1,7 @@
 ---
 title: De nordliga vindarna
 description: En fängslande resa genom Skandinaviens karga landskap, som väver tidlösa berättelser om tapperhet, kärlek och uppoffring mot bakgrund av det otämjda Norden.
+date: 2
 nested: true
 icon: fas water
 sidebarFilename: the-northern-winds

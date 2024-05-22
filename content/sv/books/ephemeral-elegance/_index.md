@@ -1,6 +1,7 @@
 ---
 title: "Flyktig elegans: en visuell odyssé av filmiska underverk"
 description: En fängslande utforskning av konstnärskapet bakom ikoniska filmer, som ger läsarna en fantastisk inblick i den kreativa processen som ger filmmagi liv på duken.
+date: 2022-10-
 nested: true
 icon: fas dice-d20
 sidebarFilename: ephemeral-elegance

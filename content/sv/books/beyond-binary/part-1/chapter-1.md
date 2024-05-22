@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 1: Att avslöja algoritmernas mysterier"
 description: Dyk djupt in i algoritmernas kärnprinciper och tillämpningar.
+date: 2022-12-22T09:10:08+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: beyond-binary

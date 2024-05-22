@@ -1,6 +1,7 @@
 ---
 title: "Kapitel 7: Över alla dimensioner"
 description: Aurora läker dimensionsbrott; verkligheten smälter samman, kaos hägrar.
+date: 2024-04-23T00:50:04+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: echoes-of-eternity
