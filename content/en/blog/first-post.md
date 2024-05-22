@@ -1,8 +1,9 @@
 ---
-author: Mark Dumay
+author: Not Mark Dumay
 title: First post
 date: 2022-10-01
 description: This is my first blog post.
+lead: Welcome to my blog! This is my very first post, and I'm excited to embark on this new journey of sharing my thoughts, experiences, and passions with you. Let's dive in and explore this adventure together.
 tags: ["blog"]
 thumbnail:
   url: img/notepad.jpg

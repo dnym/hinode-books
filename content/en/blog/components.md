@@ -3,6 +3,7 @@ author: Mark Dumay
 title: Components
 date: 2023-09-23
 description: Use shortcodes to add predefined components powered by external libraries.
+lead: "In the ever-evolving landscape of web development, maintaining a streamlined and efficient workflow is crucial. Hugo, a popular static site generator, offers a powerful feature to enhance your site's functionality: shortcodes. These predefined snippets of code allow you to effortlessly integrate complex components into your website. By leveraging external libraries, Hugo shortcodes can transform your static site into a dynamic and engaging platform, providing an enhanced user experience without the need for extensive coding. In this post, we'll explore how to utilize Hugo shortcodes to add robust components powered by external libraries, streamlining your development process and elevating your site's capabilities."
 tags: ["bootstrap", "shortcode"]
 thumbnail:
   url: img/puzzle.jpg

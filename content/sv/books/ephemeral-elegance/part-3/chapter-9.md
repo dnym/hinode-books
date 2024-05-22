@@ -5,6 +5,7 @@ date: 2024-05-01T10:30:53+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance
+lead: Bortom filmduken lever arvet från filmen vidare i hjärtan och sinnen hos fans runt om i världen. Följ med oss när vi firar den bestående inverkan av älskade klassiker genom linsen av fankonst och hyllningar, där passion möter kreativitet för att hedra filmens tidlösa magi.
 ---
 Donec euismod est condimentum dolor convallis, in lacinia elit fermentum. Nullam mollis a est vel mollis. Vivamus ut porta lorem, sed dictum magna. Nulla pellentesque enim sed pulvinar mollis. Phasellus molestie a enim vel tempus. In dignissim, nibh et dapibus rutrum, ipsum urna porttitor orci, id finibus libero sapien eu nulla. Curabitur vulputate sem ipsum, a ornare dui sodales sed. Donec gravida at ante sit amet pharetra. In ac maximus quam. Donec quis tempor purus.
 

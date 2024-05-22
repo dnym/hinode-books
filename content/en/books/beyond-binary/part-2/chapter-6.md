@@ -5,6 +5,7 @@ date: 2023-07-22T09:33:32+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: beyond-binary
+lead: In an era where cyber threats loom large, the imperative to fortify software against vulnerabilities has never been more pressing. This chapter serves as a beacon of guidance, illuminating the path to imbuing code with security from its inception, ensuring resilience in the face of adversities.
 ---
 Vestibulum tincidunt ut sapien sit amet scelerisque. Duis enim dolor, egestas in purus in, placerat fringilla magna. Mauris sem velit, eleifend eget aliquet eu, vehicula ac odio. Integer sagittis fringilla elit. Nam sed varius urna, in tempor lorem. Nullam quis eros nunc. Integer ut nibh quam. Fusce a orci laoreet, semper orci dictum, semper nisi. Duis ultricies rhoncus nulla vel accumsan. Praesent vel porttitor erat.
 

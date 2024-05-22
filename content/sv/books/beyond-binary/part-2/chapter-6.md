@@ -5,6 +5,7 @@ date: 2023-07-22T09:33:32+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: beyond-binary
+lead: I en tid där cyberhot skymtar fram har det aldrig varit mer pressande att stärka mjukvaran mot sårbarheter. Det här kapitlet fungerar som en ledstjärna, som belyser vägen till att genomsyra koden med säkerhet från starten, vilket säkerställer motståndskraft inför motgångar.
 ---
 Vestibulum tincidunt ut sapien sit amet scelerisque. Duis enim dolor, egestas in purus in, placerat fringilla magna. Mauris sem velit, eleifend eget aliquet eu, vehicula ac odio. Integer sagittis fringilla elit. Nam sed varius urna, in tempor lorem. Nullam quis eros nunc. Integer ut nibh quam. Fusce a orci laoreet, semper orci dictum, semper nisi. Duis ultricies rhoncus nulla vel accumsan. Praesent vel porttitor erat.
 

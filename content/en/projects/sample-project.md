@@ -3,6 +3,7 @@ author: Hugo Authors
 title: Sample project
 date: 2021-07-15
 description: A sample project.
+lead: This project involved creating a fully responsive and visually appealing website that emphasizes modern design principles and user-friendly navigation. By incorporating advanced CSS techniques and semantic HTML5 elements, I aimed to deliver a seamless and engaging user experience across all devices.
 tags: ["html", "css"]
 icon: fab docker
 ---

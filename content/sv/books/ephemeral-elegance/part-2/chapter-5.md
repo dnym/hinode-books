@@ -5,6 +5,7 @@ date: 2023-08-01T16:41:37+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance
+lead: I filmens gobeläng är kostymer och smink trådarna som väver samman karaktärens identitet. Gå in i designens förtrollande värld där drömmar tar form, när vi fördjupar oss i den invecklade konsten att kostym och smink, formar karaktärer som dröjer sig kvar långt efter att krediterna rullas.
 ---
 Praesent cursus ullamcorper magna, sit amet tempus erat consectetur sit amet. Praesent fermentum sem quis ex lacinia, at posuere purus mattis. Maecenas eget nisi sed tellus facilisis commodo non eget leo. Aliquam id massa in nunc ultricies sagittis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum faucibus sem ac velit porttitor tincidunt. Maecenas mollis orci justo, sit amet imperdiet erat interdum eu.
 

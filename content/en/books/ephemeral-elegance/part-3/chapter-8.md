@@ -5,6 +5,7 @@ date: 2024-01-30T23:14:50+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance
+lead: In the halls of cinema, posters are not merely advertisements, but portals to worlds unknown. Join us as we delve into the art of poster design, where iconic images are crafted with care, capturing the essence of films and etching themselves into the annals of cinematic history.
 ---
 Aenean eget nisi risus. Praesent quis lorem nec lacus feugiat luctus sit amet sit amet libero. Interdum et malesuada fames ac ante ipsum primis in faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam non iaculis tellus. Donec eu tellus elementum, dapibus purus sit amet, blandit nunc. Quisque accumsan orci sed iaculis sollicitudin. Donec id fringilla lacus. Etiam vel imperdiet purus. Sed eu mattis justo.
 

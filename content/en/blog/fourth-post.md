@@ -3,6 +3,7 @@ author: Mark Dumay
 title: Fourth post (excluded from search)
 date: 2023-01-01
 description: This is my fourth blog post. It is excluded from the search index.
+lead: In the labyrinth of urban jungles, where concrete and steel reign supreme, hidden pockets of green serenity offer a respite from the relentless hustle. Our fourth post, although excluded from search, delves into the secret gardens of major cities—those overlooked oases where nature flourishes amid the chaos, providing a sanctuary for weary souls seeking tranquility and connection with the natural world. Join us as we uncover these verdant havens, exploring their history, unique flora, and the community efforts that keep these urban retreats alive.
 tags: ["blog"]
 searchExclude: true
 thumbnail:

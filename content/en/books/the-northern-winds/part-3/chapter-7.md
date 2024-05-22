@@ -6,7 +6,7 @@ type: reverse-footer
 icon: fas question
 sidebarFilename: the-northern-winds
 aliases:
-  - "/books/en/the-northern-winds/part-3"
+  - "/en/books/the-northern-winds/part-3"
 ---
 Integer mattis felis ac erat rutrum scelerisque. Integer vel nisi at velit varius porta sed eget urna. Nam sed iaculis quam. Aenean ut arcu porta, vulputate sapien quis, fermentum justo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum eleifend turpis quis dui efficitur, vitae consequat ipsum scelerisque. Ut vel odio non odio fermentum aliquet.
 

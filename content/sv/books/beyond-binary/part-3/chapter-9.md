@@ -5,6 +5,7 @@ date: 2024-02-10T03:42:18+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: beyond-binary
+lead: När den digitala gränsen utvecklas i en rasande takt, blir det absolut nödvändigt att hålla sig à jour med framväxande teknologier. Följ med oss i detta upplysande kapitel när vi kikar in i kristallkulan av programmerings framtid, nysta upp trender och innovationer som lovar att omforma mjukvaruteknikens struktur.
 ---
 Aliquam euismod, mi sit amet congue tristique, justo tellus facilisis lorem, in sollicitudin nulla ante in turpis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent sagittis ultricies consequat. Proin fermentum nisl ac aliquet maximus. Nullam in porta urna, et sagittis nunc. Ut posuere eget libero eu fringilla. Proin semper purus vel nulla viverra, vitae molestie mauris pulvinar.
 

@@ -6,7 +6,8 @@ type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance
 aliases:
-  - "/books/sv/ephemeral-elegance/part-2"
+  - "/sv/books/ephemeral-elegance/part-2"
+lead: Genom en kameralins förvandlas världen till en symfoni av ljus och skugga, som väver berättelser som fängslar själen. Följ med oss när vi avslöjar filmfotografiets hemligheter, där varje ram är ett mästerverk som väntar på att fångas, och var och en tar ett fönster in i fantasins gränslösa världar.
 ---
 Etiam in tincidunt urna. Phasellus egestas mi sit amet leo laoreet congue. Aliquam eu risus sed nulla sagittis volutpat eget id sapien. Nunc dignissim tortor non dui luctus lacinia. Aliquam ipsum lectus, commodo id urna molestie, tincidunt fringilla justo. Sed gravida id orci et efficitur. Fusce gravida lectus et euismod pellentesque. Nunc vehicula neque dui, accumsan finibus leo sagittis id. Nunc sed augue arcu. Quisque eleifend odio eget tempus efficitur. Nulla vitae mi iaculis, dignissim ante at, euismod neque. Mauris lacinia vel enim ut mollis.
 

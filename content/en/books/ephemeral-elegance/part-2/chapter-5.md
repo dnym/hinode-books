@@ -5,6 +5,7 @@ date: 2023-08-01T16:41:37+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance
+lead: In the tapestry of cinema, costumes and makeup are the threads that weave together the fabric of character identity. Enter the enchanting world of design where dreams take shape, as we delve into the intricate art of costume and makeup, shaping characters that linger long after the credits roll.
 ---
 Praesent cursus ullamcorper magna, sit amet tempus erat consectetur sit amet. Praesent fermentum sem quis ex lacinia, at posuere purus mattis. Maecenas eget nisi sed tellus facilisis commodo non eget leo. Aliquam id massa in nunc ultricies sagittis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum faucibus sem ac velit porttitor tincidunt. Maecenas mollis orci justo, sit amet imperdiet erat interdum eu.
 

@@ -6,7 +6,8 @@ type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance
 aliases:
-  - "/books/sv/ephemeral-elegance/part-1"
+  - "/sv/books/ephemeral-elegance/part-1"
+lead: I studiornas tysta hörn och fantasins djup sås frön till filmisk briljans. Från flyktiga tankar till konkreta visioner, resan från idé till skapelse är en av transformation och uppenbarelse. Utforska uppkomsten av filmiska mästerverk när vi gräver ner i degeln där idéer formas till oförglömliga berättelser, vilket lägger grunden för en värld av filmiskt förundran.
 ---
 Vestibulum vitae erat bibendum, dictum quam id, auctor enim. Nam imperdiet dolor non posuere rutrum. Sed in bibendum justo. Morbi sed tellus fermentum, blandit augue a, facilisis odio. Cras tristique vestibulum interdum. Integer vel ornare purus, et viverra augue. Nam commodo velit vitae lobortis scelerisque. Praesent ullamcorper vitae sapien fringilla commodo. Cras eu tristique mauris. Sed quis odio gravida, suscipit enim eget, pulvinar eros. Donec nec faucibus est. Ut quis erat in risus porta pellentesque non ut turpis. Sed nec risus ullamcorper libero ultricies mollis eu eget leo. Ut blandit quis orci eget sagittis. Nulla facilisi. Pellentesque vel orci in eros commodo eleifend vitae sed libero.
 

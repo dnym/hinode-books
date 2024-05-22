@@ -6,7 +6,8 @@ type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance
 aliases:
-  - "/books/en/ephemeral-elegance/part-3"
+  - "/en/books/ephemeral-elegance/part-3"
+lead: Before the cameras roll and the actors take the stage, the story unfolds in the silent language of images. Join us as we trace the evolution of storyboard artistry, from humble sketches to visual epics, where each frame is a testament to the power of storytelling mastery.
 ---
 In hac habitasse platea dictumst. Donec ultricies, eros vel vulputate auctor, lectus nisi lobortis metus, sed accumsan dolor ante et sem. Vivamus auctor ex vel odio scelerisque porttitor. Morbi hendrerit lacus vel fermentum fringilla. Integer id feugiat ante, sit amet mattis magna. Curabitur semper faucibus mi, interdum gravida magna finibus nec. Vestibulum at diam sem. Morbi tristique diam arcu, a maximus nulla sagittis suscipit. Integer tristique tortor a iaculis interdum. Curabitur ornare risus porttitor nisl bibendum, nec pharetra tellus lobortis. In sed ligula ac velit aliquet pretium. Cras vitae metus in lorem feugiat consectetur non posuere sapien. Donec in ligula odio.
 

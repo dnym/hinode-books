@@ -5,6 +5,7 @@ date: 2024-05-01T10:30:53+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance
+lead: Beyond the silver screen, the legacy of cinema lives on in the hearts and minds of fans around the world. Join us as we celebrate the enduring impact of beloved classics through the lens of fan art and tributes, where passion meets creativity to honor the timeless magic of cinema.
 ---
 Donec euismod est condimentum dolor convallis, in lacinia elit fermentum. Nullam mollis a est vel mollis. Vivamus ut porta lorem, sed dictum magna. Nulla pellentesque enim sed pulvinar mollis. Phasellus molestie a enim vel tempus. In dignissim, nibh et dapibus rutrum, ipsum urna porttitor orci, id finibus libero sapien eu nulla. Curabitur vulputate sem ipsum, a ornare dui sodales sed. Donec gravida at ante sit amet pharetra. In ac maximus quam. Donec quis tempor purus.
 

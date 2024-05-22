@@ -6,7 +6,8 @@ type: reverse-footer
 icon: fas question
 sidebarFilename: beyond-binary
 aliases:
-  - "/books/en/beyond-binary/part-3"
+  - "/en/books/beyond-binary/part-3"
+lead: In the dynamic landscape of software development, efficiency reigns supreme, and seamless integration and deployment pipelines are the conduits to success. Delve into this chapter to unearth strategies for optimizing development cycles, fostering agility, and accelerating time-to-market with precision.
 ---
 Nam id arcu dignissim, aliquet purus a, pharetra magna. Duis eu est pulvinar, scelerisque arcu eget, tincidunt odio. Nullam dignissim magna pellentesque purus feugiat, at vulputate est tristique. Morbi vulputate, quam ut cursus porta, lorem elit faucibus dui, ut egestas urna mi vel felis. Ut faucibus lacus eros, at lobortis elit eleifend ac. Vivamus massa tortor, euismod quis venenatis ac, luctus quis turpis. Fusce dignissim in arcu id faucibus. Sed molestie dui vel ante hendrerit fringilla. Phasellus vehicula quis mi in commodo. Praesent dolor dui, hendrerit et augue sed, congue vulputate risus. Nunc consequat, odio vel viverra aliquam, nisl sapien vulputate leo, nec aliquam odio nibh suscipit sapien. Phasellus nec ipsum non neque iaculis mollis. Cras ut pretium nisl.
 

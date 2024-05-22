@@ -3,6 +3,7 @@ author: Mark Dumay
 title: Another project
 date: 2021-07-15
 description: Another project.
+lead: This project encapsulates the synergy between two cutting-edge languages to deliver unparalleled performance, scalability, and versatility. Brace yourself for an exhilarating exploration of seamless integration, streamlined workflows, and groundbreaking solutions tailored to redefine the landscape of web development.
 tags: ["javascript", "golang"]
 icon: fas rocket
 ---

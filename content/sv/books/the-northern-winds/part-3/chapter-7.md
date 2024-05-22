@@ -1,12 +1,12 @@
 ---
-title: "Kapitel 7: Sånger från nordens haven"
+title: "Kapitel 7: Sånger från nordens hav"
 description: Astrid trotsar de rasande haven för att söka allierade.
 date: 2024-01-08T04:29:39+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: the-northern-winds
 aliases:
-  - "/books/sv/the-northern-winds/part-3"
+  - "/sv/books/the-northern-winds/part-3"
 ---
 Integer mattis felis ac erat rutrum scelerisque. Integer vel nisi at velit varius porta sed eget urna. Nam sed iaculis quam. Aenean ut arcu porta, vulputate sapien quis, fermentum justo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum eleifend turpis quis dui efficitur, vitae consequat ipsum scelerisque. Ut vel odio non odio fermentum aliquet.
 

@@ -6,7 +6,8 @@ type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance
 aliases:
-  - "/books/en/ephemeral-elegance/part-1"
+  - "/en/books/ephemeral-elegance/part-1"
+lead: In the quiet corners of studios and the depths of imaginations, the seeds of cinematic brilliance are sown. From fleeting thoughts to concrete visions, the journey from concept to creation is one of transformation and revelation. Explore the genesis of cinematic masterpieces as we delve into the crucible where ideas are forged into unforgettable narratives, laying the foundation for a world of cinematic wonder.
 ---
 Vestibulum vitae erat bibendum, dictum quam id, auctor enim. Nam imperdiet dolor non posuere rutrum. Sed in bibendum justo. Morbi sed tellus fermentum, blandit augue a, facilisis odio. Cras tristique vestibulum interdum. Integer vel ornare purus, et viverra augue. Nam commodo velit vitae lobortis scelerisque. Praesent ullamcorper vitae sapien fringilla commodo. Cras eu tristique mauris. Sed quis odio gravida, suscipit enim eget, pulvinar eros. Donec nec faucibus est. Ut quis erat in risus porta pellentesque non ut turpis. Sed nec risus ullamcorper libero ultricies mollis eu eget leo. Ut blandit quis orci eget sagittis. Nulla facilisi. Pellentesque vel orci in eros commodo eleifend vitae sed libero.
 

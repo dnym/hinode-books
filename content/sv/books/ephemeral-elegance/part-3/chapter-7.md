@@ -6,7 +6,8 @@ type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance
 aliases:
-  - "/books/sv/ephemeral-elegance/part-3"
+  - "/sv/books/ephemeral-elegance/part-3"
+lead: Innan kamerorna rullar och skådespelarna intar scenen utspelar sig historien i bildernas tysta språk. Följ med oss när vi följer utvecklingen av storyboardkonstnär, från ödmjuka skisser till visuella epos, där varje bildruta är ett bevis på kraften i berättande.
 ---
 In hac habitasse platea dictumst. Donec ultricies, eros vel vulputate auctor, lectus nisi lobortis metus, sed accumsan dolor ante et sem. Vivamus auctor ex vel odio scelerisque porttitor. Morbi hendrerit lacus vel fermentum fringilla. Integer id feugiat ante, sit amet mattis magna. Curabitur semper faucibus mi, interdum gravida magna finibus nec. Vestibulum at diam sem. Morbi tristique diam arcu, a maximus nulla sagittis suscipit. Integer tristique tortor a iaculis interdum. Curabitur ornare risus porttitor nisl bibendum, nec pharetra tellus lobortis. In sed ligula ac velit aliquet pretium. Cras vitae metus in lorem feugiat consectetur non posuere sapien. Donec in ligula odio.
 

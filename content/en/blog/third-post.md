@@ -1,8 +1,9 @@
 ---
-author: Mark Dumay
+author: Not Mark Dumay
 title: Third post
 date: 2022-12-01
 description: This is my third blog post.
+lead: The magic of serendipity often leads us to the most unexpected discoveries. In this third post, we delve into the enchanting world of "Accidental Art," where unplanned creativity and spontaneous moments combine to produce extraordinary works. Whether it's a splash of paint that turns into a masterpiece or a chance encounter that inspires a new art form, join us as we explore how beautiful accidents can redefine our understanding of art and creativity.
 tags: ["blog"]
 thumbnail:
   url: https://picsum.photos/id/184/4288/2848.jpg

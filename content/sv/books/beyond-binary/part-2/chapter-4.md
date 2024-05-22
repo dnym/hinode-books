@@ -6,7 +6,8 @@ type: reverse-footer
 icon: fas question
 sidebarFilename: beyond-binary
 aliases:
-  - "/books/sv/beyond-binary/part-2"
+  - "/sv/books/beyond-binary/part-2"
+lead: Inom mjukvarutekniken ligger tjusningen med funktionell programmering i dess elegans och den djupa enkelheten hos Lambda Calculus. Det här kapitlet fördjupar sig i de grundläggande principerna och praktiska tillämpningarna av funktionella paradigm, och belyser den transformativa kraft de utövar i att skapa motståndskraftiga och skalbara mjukvarulösningar.
 ---
 Pellentesque fermentum consectetur ultrices. Fusce ullamcorper ante et lectus efficitur cursus. Aenean eu sodales ligula. Sed vehicula, orci et tincidunt faucibus, nisi risus dapibus erat, sed ultricies orci risus nec ipsum. Nulla ac tincidunt nibh. Mauris in aliquam dolor. Nullam ullamcorper, nulla eu suscipit convallis, justo nunc lacinia justo, at vestibulum enim eros at arcu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 

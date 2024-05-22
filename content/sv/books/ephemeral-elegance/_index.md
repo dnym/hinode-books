@@ -9,8 +9,8 @@ tags:
   - facklitteratur
   - konst
   - film
+lead: "Flyktig elegans: en visuell odyssé av filmiska underverk är en hisnande resa in i konstnärskapet och fantasin bakom några av biografernas mest ikoniska filmer. Den här överdådigt illustrerade boken fördjupar sig i den invecklade processen att få filmmagi till liv på duken, och visar upp briljansen hos konstnärer, designers och visionärer som formar det visuella landskapet i filmen."
 ---
-"Flyktig elegans: en visuell odyssé av filmiska underverk" är en hisnande resa in i konstnärskapet och fantasin bakom några av biografernas mest ikoniska filmer. Den här överdådigt illustrerade boken fördjupar sig i den invecklade processen att få filmmagi till liv på duken, och visar upp briljansen hos konstnärer, designers och visionärer som formar det visuella landskapet i filmen.
 
 Från födelsen av ett koncept till den sista bildrutan avslöjar varje sida i denna fängslande bok hemligheterna bakom skapandet av oförglömliga karaktärer, fantastiska miljöer och fascinerande visuella effekter. Genom anekdoter bakom kulisserna, konceptskisser och fantastisk fotografering förs läsarna in i hjärtat av filmskapandeprocessen, där kreativiteten inte känner några gränser.
 

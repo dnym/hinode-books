@@ -6,7 +6,7 @@ type: reverse-footer
 icon: fas question
 sidebarFilename: echoes-of-eternity
 aliases:
-  - "/books/en/echoes-of-eternity/part-1"
+  - "/en/books/echoes-of-eternity/part-1"
 ---
 Duis mattis nisl vitae nunc interdum hendrerit. Nulla consectetur facilisis leo sit amet elementum. Fusce scelerisque massa ligula, vitae sagittis arcu volutpat id. Morbi in felis libero. Sed vehicula, nisi non dignissim laoreet, odio ipsum mollis erat, ut tempor risus odio ut ipsum. Vivamus accumsan neque sem, vitae pellentesque risus pulvinar luctus. Integer lectus ante, tincidunt quis purus id, vehicula lobortis nisl. Mauris nec enim ut tellus convallis scelerisque in non velit. In quis ex egestas, venenatis odio pharetra, euismod purus. Suspendisse potenti. Vivamus ac eros eu purus vulputate tempus.
 

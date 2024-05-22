@@ -5,6 +5,7 @@ date: 2024-01-30T23:14:50+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance
+lead: I filmens korridorer är affischer inte bara reklam, utan portaler till okända världar. Följ med oss när vi fördjupar oss i konsten att designa affisch, där ikoniska bilder skapas med omsorg, fångar essensen av filmer och etsar in sig i filmhistoriens annaler.
 ---
 Aenean eget nisi risus. Praesent quis lorem nec lacus feugiat luctus sit amet sit amet libero. Interdum et malesuada fames ac ante ipsum primis in faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam non iaculis tellus. Donec eu tellus elementum, dapibus purus sit amet, blandit nunc. Quisque accumsan orci sed iaculis sollicitudin. Donec id fringilla lacus. Etiam vel imperdiet purus. Sed eu mattis justo.
 

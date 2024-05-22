@@ -5,6 +5,7 @@ date: 2023-03-20T14:44:19+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance
+lead: Inom penndragen ligger kraften att blåsa liv i enbart skisser, födande karaktärer som överskrider sidan för att bli ikoner för fantasi. Följ med oss på en resa genom den alkemiska processen med karaktärsdesign och utveckling, där skisser utvecklas till personas som fängslar hjärtan och sinnen och lämnar en outplånlig prägel på berättandets landskap.
 ---
 In vehicula leo in rutrum faucibus. Nulla at erat nulla. Ut augue enim, molestie id facilisis vitae, venenatis ac mauris. Praesent velit nibh, dictum a facilisis eu, scelerisque non elit. Donec viverra diam vulputate, luctus sapien eu, lobortis neque. Nunc ultricies ultrices est, et tempor diam. Pellentesque interdum dolor sit amet dictum scelerisque. Duis aliquet pulvinar metus eget porta.
 

@@ -6,7 +6,8 @@ type: reverse-footer
 icon: fas question
 sidebarFilename: beyond-binary
 aliases:
-  - "/books/sv/beyond-binary/part-1"
+  - "/sv/books/beyond-binary/part-1"
+lead: I den moderna teknikens labyrint härskar algoritmer som vår digitala världs tysta arkitekter, vilka formar våra interaktioner, beslut och förståelse av information. I det här kapitlet ger vi oss ut på en resa för att reda ut algoritmernas mysterier och fördjupa oss i deras kärnprinciper och olika tillämpningar. Från den eleganta enkelheten med sorteringsalgoritmer till de komplexa krångligheterna i maskininlärningsmodeller, utforskar vi hur dessa beräkningskonstruktioner stödjer de system som driver våra vardagliga liv. Följ med oss när vi vågar oss in i hjärtat av algoritmiskt tänkande och försöker belysa de osynliga krafter som driver vår sammankopplade värld.
 ---
 Duis ut malesuada mi. Suspendisse euismod, mauris eget egestas varius, elit ex malesuada nisi, at dignissim ante enim eu ex. Sed turpis nisi, vehicula nec dapibus et, iaculis at lorem. Proin ut mauris mattis, rutrum ligula a, accumsan urna. Aenean vehicula, erat et dignissim auctor, leo ante egestas arcu, vel cursus tellus ex nec augue. Donec sagittis leo vitae ex ultricies, quis iaculis libero dictum. Suspendisse placerat porta sem non volutpat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat dolor ac erat vehicula fringilla. Sed consequat auctor blandit. Sed tortor magna, molestie ac est nec, dapibus imperdiet risus. Suspendisse mattis auctor odio et facilisis.
 

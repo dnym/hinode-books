@@ -3,6 +3,7 @@ author: Mark Dumay
 title: Bootstrap elements
 date: 2023-08-12
 description: Use shortcodes to add common Bootstrap elements with ease.
+lead: Creating a visually appealing and responsive website can be a breeze with the right tools, and Hugo coupled with Bootstrap elements is a powerful combination. In this blog post, we'll explore how to leverage shortcodes to effortlessly integrate common Bootstrap components into your site. Whether you're looking to add buttons, alerts, or grids, these pre-defined shortcodes will streamline your development process, making it simpler to build a sleek, professional site without delving deep into the intricacies of Bootstrap's extensive classes and markup.
 tags: ["bootstrap", "shortcode"]
 thumbnail:
   url: img/boots.jpg

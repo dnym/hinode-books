@@ -5,6 +5,7 @@ date: 2023-06-02T20:55:43+02:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: beyond-binary
+lead: Att navigera i den labyrintiska komplexiteten hos moderna mjukvarusystem kräver en ständig efterlevnad av robusta arkitektoniska designprinciper. I det här kapitlet ger vi oss ut på en resa genom mjukvaruarkitekturens krångligheter, avslöjar strategier för att tämja komplexitet och skapa system som klarar tidens tand.
 ---
 Suspendisse luctus pharetra tortor vitae malesuada. In sodales consectetur rutrum. Etiam viverra purus sem, quis ultricies ante fermentum nec. Quisque consectetur mi a finibus rhoncus. Nulla volutpat, felis vitae accumsan rhoncus, enim arcu feugiat felis, eget venenatis ligula turpis vitae mauris. Praesent lacinia porta ligula ac sagittis. Morbi rutrum, diam sed porttitor cursus, neque nisi dictum diam, nec viverra elit mi ac mi. Vivamus vitae ultrices arcu.
 

@@ -6,7 +6,8 @@ type: reverse-footer
 icon: fas question
 sidebarFilename: beyond-binary
 aliases:
-  - "/books/en/beyond-binary/part-1"
+  - "/en/books/beyond-binary/part-1"
+lead: In the labyrinth of modern technology, algorithms reign as the silent architects of our digital world, shaping our interactions, decisions, and understanding of information. In this chapter, we embark on a journey to unravel the mysteries of algorithms, delving into their core principles and diverse applications. From the elegant simplicity of sorting algorithms to the complex intricacies of machine learning models, we explore how these computational constructs underpin the systems that power our everyday lives. Join us as we venture into the heart of algorithmic thinking, seeking to illuminate the unseen forces that drive our interconnected world.
 ---
 Duis ut malesuada mi. Suspendisse euismod, mauris eget egestas varius, elit ex malesuada nisi, at dignissim ante enim eu ex. Sed turpis nisi, vehicula nec dapibus et, iaculis at lorem. Proin ut mauris mattis, rutrum ligula a, accumsan urna. Aenean vehicula, erat et dignissim auctor, leo ante egestas arcu, vel cursus tellus ex nec augue. Donec sagittis leo vitae ex ultricies, quis iaculis libero dictum. Suspendisse placerat porta sem non volutpat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat dolor ac erat vehicula fringilla. Sed consequat auctor blandit. Sed tortor magna, molestie ac est nec, dapibus imperdiet risus. Suspendisse mattis auctor odio et facilisis.
 

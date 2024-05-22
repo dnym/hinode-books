@@ -5,6 +5,7 @@ date: 2023-03-20T14:44:19+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance
+lead: Within the strokes of a pencil lies the power to breathe life into mere sketches, birthing characters that transcend the page to become icons of imagination. Join us on a journey through the alchemical process of character design and development, where sketches evolve into personas that captivate hearts and minds, leaving an indelible mark on the landscape of storytelling.
 ---
 In vehicula leo in rutrum faucibus. Nulla at erat nulla. Ut augue enim, molestie id facilisis vitae, venenatis ac mauris. Praesent velit nibh, dictum a facilisis eu, scelerisque non elit. Donec viverra diam vulputate, luctus sapien eu, lobortis neque. Nunc ultricies ultrices est, et tempor diam. Pellentesque interdum dolor sit amet dictum scelerisque. Duis aliquet pulvinar metus eget porta.
 

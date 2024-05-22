@@ -5,6 +5,7 @@ date: 2024-01-06T20:30:30+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: beyond-binary
+lead: In modern software engineering, collaboration and efficiency converge in the crucible of DevOps culture. This chapter delves into the ethos of DevOps, illuminating the transformative potential it holds in bridging the schism between development and operations, fostering synergy, and propelling teams towards excellence.
 ---
 Nulla efficitur placerat orci, nec ultrices dui egestas vel. Morbi vel lorem id dui mattis vehicula. Etiam scelerisque nunc vel fringilla sollicitudin. Suspendisse porttitor quam sed massa sodales suscipit. Quisque eget fringilla turpis. Pellentesque non orci vel mauris consequat blandit. Nunc a aliquam felis, quis mollis magna. Maecenas nulla orci, cursus vel lorem id, condimentum tincidunt justo.
 

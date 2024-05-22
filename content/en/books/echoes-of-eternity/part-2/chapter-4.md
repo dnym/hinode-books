@@ -6,7 +6,7 @@ type: reverse-footer
 icon: fas question
 sidebarFilename: echoes-of-eternity
 aliases:
-  - "/books/en/echoes-of-eternity/part-2"
+  - "/en/books/echoes-of-eternity/part-2"
 ---
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam fermentum eu leo eget euismod. Nullam eget lacus eros. Pellentesque lobortis diam ipsum, quis feugiat sapien molestie sit amet. Vivamus sed odio vitae orci porttitor vestibulum. Proin fringilla tellus dui, a faucibus nisl scelerisque vitae. Phasellus sit amet magna urna. Vestibulum tincidunt tellus bibendum felis suscipit dignissim.
 

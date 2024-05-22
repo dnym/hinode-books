@@ -1,8 +1,9 @@
 ---
-author: Mark Dumay
+author: Not Mark Dumay
 title: Second post
 date: 2022-11-01
 description: This is my second blog post.
+lead: Welcome back to my corner of the internet! In this second post, we're diving into the fascinating world of digital minimalism. If you've ever felt overwhelmed by the constant barrage of notifications, emails, and social media updates, this is the post for you. We'll explore practical strategies for decluttering your digital life, reclaiming your time, and finding a balance between staying connected and staying sane. Ready to take control of your digital space? Let's get started!
 tags: ["blog"]
 thumbnail:
   url: img/phone.jpg

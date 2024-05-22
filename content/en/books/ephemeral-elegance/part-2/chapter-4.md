@@ -6,7 +6,8 @@ type: reverse-footer
 icon: fas question
 sidebarFilename: ephemeral-elegance
 aliases:
-  - "/books/en/ephemeral-elegance/part-2"
+  - "/en/books/ephemeral-elegance/part-2"
+lead: Through the lens of a camera, the world is transformed into a symphony of light and shadow, weaving tales that captivate the soul. Join us as we unravel the secrets of cinematic photography, where each frame is a masterpiece waiting to be captured, and each shot a window into the boundless realms of imagination.
 ---
 Etiam in tincidunt urna. Phasellus egestas mi sit amet leo laoreet congue. Aliquam eu risus sed nulla sagittis volutpat eget id sapien. Nunc dignissim tortor non dui luctus lacinia. Aliquam ipsum lectus, commodo id urna molestie, tincidunt fringilla justo. Sed gravida id orci et efficitur. Fusce gravida lectus et euismod pellentesque. Nunc vehicula neque dui, accumsan finibus leo sagittis id. Nunc sed augue arcu. Quisque eleifend odio eget tempus efficitur. Nulla vitae mi iaculis, dignissim ante at, euismod neque. Mauris lacinia vel enim ut mollis.
 

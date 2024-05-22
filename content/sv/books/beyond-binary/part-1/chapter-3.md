@@ -5,6 +5,7 @@ date: 2023-03-16T04:53:51+01:00
 type: reverse-footer
 icon: fas question
 sidebarFilename: beyond-binary
+lead: Inom mjukvarutekniken står strävan efter att skapa elegant, återanvändbar och skalbar kod som en tidlös strävan. I det här kapitlet går vi djupt in i principerna och metoderna som ligger till grund för skapandet av motståndskraftiga, anpassningsbara system, och utforskar hur en klok tillämpning av designmönster kan lyfta kod från ren funktionalitet till uthålligt hantverk. Genom insiktsfull analys och praktiska exempel reder vi upp mysterierna med återanvändbar och skalbar kod, och belyser vägen mot mästerskap inom objektorienterad design.
 ---
 Nullam bibendum, arcu in facilisis gravida, purus tortor ultricies felis, porttitor luctus nibh diam id leo. Donec massa metus, suscipit ut urna non, fringilla interdum libero. Morbi varius, orci in venenatis imperdiet, elit justo molestie nunc, venenatis convallis nisi nisl nec mauris. Donec finibus dictum felis ut convallis. Duis sed felis lectus. Sed metus erat, lacinia id feugiat in, venenatis vel urna. Vivamus eget ex in magna tristique semper quis in ipsum. In sit amet ex feugiat, accumsan dui eu, accumsan metus. Pellentesque semper porttitor sodales. Proin nec metus id ex lacinia fringilla. Vivamus lectus leo, condimentum non pharetra et, bibendum nec ligula.
 

@@ -6,7 +6,8 @@ type: reverse-footer
 icon: fas question
 sidebarFilename: beyond-binary
 aliases:
-  - "/books/en/beyond-binary/part-2"
+  - "/en/books/beyond-binary/part-2"
+lead: In the realm of software engineering, the allure of functional programming lies in its elegance and the profound simplicity of Lambda Calculus. This chapter delves into the foundational principles and practical applications of functional paradigms, illuminating the transformative power they wield in crafting resilient and scalable software solutions.
 ---
 Pellentesque fermentum consectetur ultrices. Fusce ullamcorper ante et lectus efficitur cursus. Aenean eu sodales ligula. Sed vehicula, orci et tincidunt faucibus, nisi risus dapibus erat, sed ultricies orci risus nec ipsum. Nulla ac tincidunt nibh. Mauris in aliquam dolor. Nullam ullamcorper, nulla eu suscipit convallis, justo nunc lacinia justo, at vestibulum enim eros at arcu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
