@@ -12,7 +12,6 @@ tags:
   - magi
 lead: "Evighetens ekon: en resa genom tiden är en fängslande berättelse som blandar inslag av fantasi, äventyr och mystik. Berättelsen utspelar sig i en värld där tiden är både flytande och oföränderlig och följer en grupp osannolika hjältar som upptäcker en dold sanning som sträcker sig över århundraden."
 ---
-
 När uråldriga profetior återuppstår och mystiska portaler lockar, ger sig våra huvudpersoner ut på en farlig resa genom själva tidens korridorer. Från de majestätiska ruinerna av bortglömda civilisationer till de livliga gatorna i moderna städer måste de reda ut det förflutnas hemligheter för att rädda framtiden.
 
 Guidade av gåtfulla väktare och förföljda av illvilliga krafter, måste våra hjältar konfrontera sina egna rädslor och tvivel när de navigerar genom tidens ständigt föränderliga landskap. Längs vägen möter de allierade och motståndare, var och en med sina egna agendor och motiv.

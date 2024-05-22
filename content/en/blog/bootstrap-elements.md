@@ -12,7 +12,6 @@ thumbnail:
   origin: Unsplash
   originURL: https://unsplash.com/photos/QLPWQvHvmII
 ---
-
 Hinode provides several shortcodes that wrap common Bootstrap components. Refer to the [official documentation](about:blank) for more details.
 
 ## Abbr

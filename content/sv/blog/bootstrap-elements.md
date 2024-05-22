@@ -11,7 +11,6 @@ thumbnail:
   origin: Unsplash
   originURL: https://unsplash.com/photos/QLPWQvHvmII
 ---
-
 Hinode tillhandahåller flera kortkoder som omsluter vanliga Bootstrap-komponenter. Se den [officiella dokumentationen](about:blank) för mer information.
 
 I övrigt förblir detta dokument oöversatt.

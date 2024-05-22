@@ -13,7 +13,6 @@ thumbnail:
   originURL: https://unsplash.com/photos/5siQcvSxCP8
 modules: ["katex", "leaflet", "lottie"]
 ---
-
 Hinode provides several shortcodes on top of the common [Bootstrap elements]({{< relref "bootstrap-elements" >}}). Refer to the [official documentation](about:blank) for more details.
 
 ## Animation

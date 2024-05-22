@@ -12,7 +12,6 @@ thumbnail:
   originURL: https://unsplash.com/photos/5siQcvSxCP8
 modules: ["katex", "leaflet", "lottie"]
 ---
-
 Hinode tillhandahåller flera kortkoder ovanpå de vanliga [Bootstrap elements]({{< relref "bootstrap-elements" >}}). Se den [officiella dokumentationen](about:blank) för mer information.
 Animation
 

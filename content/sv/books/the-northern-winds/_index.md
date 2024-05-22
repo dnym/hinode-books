@@ -1,7 +1,7 @@
 ---
 title: De nordliga vindarna
 description: En fängslande resa genom Skandinaviens karga landskap, som väver tidlösa berättelser om tapperhet, kärlek och uppoffring mot bakgrund av det otämjda Norden.
-date: 2
+date: 2022-11-10T09:09:31+01:00
 nested: true
 icon: fas water
 sidebarFilename: the-northern-winds
@@ -10,9 +10,8 @@ tags:
   - historia
   - fantasy
   - drama
+lead: "De nordliga vindarna transporterar läsarna in i Skandinaviens förtrollande riken, där viskningar från uråldriga skogar och ekon från nordiska legender flätas samman."
 ---
-"De nordliga vindarna" transporterar läsarna in i Skandinaviens förtrollande riken, där viskningar från uråldriga skogar och ekon från nordiska legender flätas samman.
-
 I denna fängslande bok ger sig läsarna ut på en resa genom de karga landskapen i norr och gräver djupt in i hjärtat av skandinavisk folklore och mytologi. Från de dimhöljda fjordarna till de snötäckta bergen avslöjar varje kapitel en ny berättelse om äventyr, mystik och magi.
 
 Genom levande berättelser och stämningsfulla bilder möter läsarna en gobeläng av karaktärer – från orädda krigare till listiga tricksters – vars öden är sammanflätade med själva landets väv. När de korsar de vidsträckta vidderna av den nordiska vildmarken, avslöjar de hemligheter gömda under den isiga ytan och bevittnar den bestående kraften i gamla traditioner.
