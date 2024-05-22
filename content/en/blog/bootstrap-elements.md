@@ -266,7 +266,7 @@ As an example, the following shortcode displays a regular vector image.
 
 <!-- markdownlint-disable MD037 -->
 {{< example lang="hugo" >}}
-{{</* image src="/img/logo_icon.svg" class="col-sm-6 col-lg-4" wrapper="text-center" */>}}
+{{</* image src="/hinode-books/img/logo_icon.svg" class="col-sm-6 col-lg-4" wrapper="text-center" */>}}
 {{< /example >}}
 <!-- markdownlint-enable MD037 -->
 
@@ -274,7 +274,7 @@ As an example, the following shortcode displays a vector image with a symbol ref
 
 <!-- markdownlint-disable MD037 -->
 {{< example lang="hugo" >}}
-{{</* image src="/img/logo_var.svg#logo" class="col-sm-6 col-lg-4" wrapper="text-center" */>}}
+{{</* image src="/hinode-books/img/logo_var.svg#logo" class="col-sm-6 col-lg-4" wrapper="text-center" */>}}
 {{< /example >}}
 <!-- markdownlint-enable MD037 -->
 

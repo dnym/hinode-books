@@ -3,6 +3,11 @@ defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
 timeout = "10m"
 
+[params.main]
+    canonifyAssetsURLs = true
+[params.style]
+    themeFontPreload = "/hinode-books/fonts/inter-v12-latin-regular.woff2"
+
 [[module.imports]]
     path = 'github.com/gethinode/hinode'
 
@@ -41,6 +46,7 @@ timeout = "10m"
     caption = "Jag arbetar med allt som har med kodning att göra och twittrar utvecklarmemer"
 
 [params.navigation]
+    logo = "img/logo_icon.svg"
     sidebar = true
     toc = true
     includeToc = true
@@ -53,44 +59,44 @@ timeout = "10m"
 
 [[languages.en.menus.main]]
     name = 'About'
-    pageRef = '/about/'
+    pageRef = 'about/'
     weight = 10
 [[languages.en.menus.main]]
     name = 'Blog'
-    pageRef = '/blog/'
+    pageRef = 'blog/'
     weight = 20
 [[languages.en.menus.main]]
     name = 'Projects'
-    pageRef = '/projects/'
+    pageRef = 'projects/'
     weight = 30
 [[languages.en.menus.main]]
     name = 'Books'
-    pageRef = '/books/'
+    pageRef = 'books/'
     weight = 40
 [[languages.en.menus.main]]
     name = 'Tags'
-    pageRef = '/tags/'
+    pageRef = 'tags/'
     weight = 50
 
 [[languages.sv.menus.main]]
     name = 'Om'
-    pageRef = '/about/'
+    pageRef = 'about/'
     weight = 10
 [[languages.sv.menus.main]]
     name = 'Blogg'
-    pageRef = '/blog/'
+    pageRef = 'blog/'
     weight = 20
 [[languages.sv.menus.main]]
     name = 'Projekt'
-    pageRef = '/projects/'
+    pageRef = 'projects/'
     weight = 30
 [[languages.sv.menus.main]]
     name = 'Böcker'
-    pageRef = '/books/'
+    pageRef = 'books/'
     weight = 40
 [[languages.sv.menus.main]]
     name = 'Taggar'
-    pageRef = '/tags/'
+    pageRef = 'tags/'
     weight = 50
 
 [[languages.en.menus.social]]
